@@ -16,10 +16,10 @@ I'm here to solve things, Learning a lot in the Process.
 **Updates:**
 - 🔭 I’m currently working as an Cloud and Data Engineer at [**Virtusa**](https://www.virtusa.com/)
 - 🔭 I’m also working on [DeepLearning.ai 's NLP Specialization]()
-- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Fast.ai](https://course.fast.ai/#) and reading Books and Online materials.
+- 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Krish Naik's YT Channel](https://www.youtube.com/user/krishnaik06) and reading Books and Online materials/videos.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
 - 📫 How to reach me: [Connect/Message](https://www.linkedin.com/in/sharad-mittal-13834512b/)
-- - 💬 Ask me about: **Machine Learning**, **NLP**, **Cloud Computing(GCP)**
+- 💬 Ask me about: **Machine Learning**, **NLP**, **Cloud Computing(GCP)**
 
 
 ### Find me around:
