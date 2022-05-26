@@ -14,7 +14,7 @@ I'm here to solve things, Learning a lot in the Process.
 - ⚡ [Time Series Prediction of Covid-19 using FB Prophet](https://github.com/mittalsharad/covid19)
 
 **Updates:**
-- 🔭 I’m currently working as an Cloud and Data Engineer at [**Virtusa**](https://www.virtusa.com/)
+- 🔭 I’m currently working as an Senior Analyst Data Science at [**Tiger Analytics**](https://www.tigeranalytics.com/)
 - 🔭 I’m also working on [DeepLearning.ai 's NLP Specialization]()
 - 🌱 I’m currently learning from [Coursera](https://www.coursera.org/), [Krish Naik's YT Channel](https://www.youtube.com/user/krishnaik06) and reading Books and Online materials/videos.
 - 👯 I’m looking to collaborate on **Data Science**, **Machine Learning** and **Deep Learning**
