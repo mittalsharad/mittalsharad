@@ -1,17 +1,17 @@
 ### Hi there 👋, I am Sharad 👋 :computer:
 
-I'm **Sharad Mittal**, a **Deep Learning**, **Machine Learning** and **Cloud Computing** **Practitioner** and **Learner**. 
+I'm **Sharad Mittal**, a **Gen AI, NLP, Deep Learning**, **Machine Learning** and **Cloud Computing** **Practitioner** and **Learner**. 
 
 I'm here to solve things, Learning a lot in the Process.
 
 
 **Pinned**
+- ⚡ [Churn Prediction using ANN](https://github.com/mittalsharad/ANN_based_Churn_Prediction_Model)
+- ⚡ [Estimated Salary using ANN](https://github.com/mittalsharad/Salary_estimation_using_ANN)
 - ⚡ [Bank Note Authenticator](https://github.com/mittalsharad/bank-note-authenticator)
 - ⚡ [Language Detection using NLP](https://github.com/mittalsharad/Language_Detector_using_NLP)
 - ⚡ [Kaggle's Titanic Problem](https://github.com/mittalsharad/Kaggle-Titanic-Problem)
 - ⚡ [IBM Data Science Capstone Project](https://github.com/mittalsharad/Coursera_Capstone)
-- ⚡ [Bank Marketting Campaign Analysis](https://github.com/mittalsharad/bank-marketting-compaign-analysis)
-- ⚡ [Time Series Prediction of Covid-19 using FB Prophet](https://github.com/mittalsharad/covid19)
 
 **Updates:**
 - 🔭 I’m currently working as Data Scientist at [**Tiger Analytics**](https://www.tigeranalytics.com/)
