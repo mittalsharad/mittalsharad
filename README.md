@@ -6,6 +6,7 @@ I'm here to solve things, Learning a lot in the Process.
 
 
 **Pinned**
+- ⚡ [Next Word Prediction using LSTM or GRU](https://github.com/mittalsharad/Next_word_prediction_using_LSTM_GRU)
 - ⚡ [IMDB Review Classification using RNN](https://github.com/mittalsharad/IMDB_review_classification)
 - ⚡ [Churn Prediction using ANN](https://github.com/mittalsharad/ANN_based_Churn_Prediction_Model)
 - ⚡ [Estimated Salary using ANN](https://github.com/mittalsharad/Salary_estimation_using_ANN)
